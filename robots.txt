@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://international-christian-church.com/sitemap.xml
